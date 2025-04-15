@@ -1,0 +1,15 @@
+{D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/alu.v} {1 {vlog -work work -vopt {D:\Program Files\modeltech64_10.1c\dsd_hws\az_8\alu.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v} {1 {vlog -work work -vopt {D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

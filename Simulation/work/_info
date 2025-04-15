@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files\modeltech64_10.1c\dsd_hws\az_9
+valu
+VBT;]A^QM]d0k<T>fgb;6k1
+r1
+!s85 0
+31
+I]FB[6?65F]:be:k<d:8VG1
+Z0 dD:\Program Files\modeltech64_10.1c\dsd_hws\az_8
+w1451763925
+8D:\Program Files\modeltech64_10.1c\dsd_hws\az_8\alu.v
+FD:\Program Files\modeltech64_10.1c\dsd_hws\az_8\alu.v
+L0 1
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|D:\Program Files\modeltech64_10.1c\dsd_hws\az_8\alu.v|
+!s100 Q>hUm[TPgje;IML3_YO;L3
+!s108 1451763925.993000
+!s107 D:\Program Files\modeltech64_10.1c\dsd_hws\az_8\alu.v|
+!i10b 1
+vtest
+Vk<3<[f=78GX=_HO53D;7>3
+r1
+31
+IB>Eg]]^OChzc^V;fbfBJH0
+Z3 dD:\Program Files\modeltech64_10.1c\dsd_hws\az_8
+w1451762994
+8D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v
+FD:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v
+L0 1
+R1
+R2
+!s85 0
+!s100 S8SVZ3c<znGXYo:5>V^6c0
+!s90 -reportprogress|300|-work|work|-vopt|D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v|
+!i10b 1
+!s108 1451763926.060000
+!s107 D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v|

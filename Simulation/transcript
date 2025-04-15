@@ -1,0 +1,212 @@
+# Compile of alu.v failed with 2 errors.
+# Compile of test.v was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of alu.v failed with 1 errors.
+# Compile of test.v was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of alu.v failed with 1 errors.
+# Compile of alu.v failed with 1 errors.
+# Compile of alu.v was successful.
+# Compile of alu.v was successful.
+# Compile of test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of alu.v was successful.
+# Compile of test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of alu.v was successful.
+# Compile of test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of alu.v was successful.
+# Compile of test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of alu.v was successful.
+# Compile of test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Break key hit 
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 11
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 36
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 36
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+run -all
+# Break key hit 
+# Break in Module alu at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/alu.v line 28
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 36
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+# ** Error: (vsim-3043) D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/alu.v(43): Unresolved reference to 'display'.
+# 
+#         Region: /test/alu1
+# Error loading design
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 36
+quit -sim
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# time =                    5, opc=0
+# time =                   15, opc=0
+# time =                   25, opc=1
+# time =                   35, opc=1
+# time =                   45, opc=0
+# time =                   55, opc=0
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 36
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# time =                    5, opc=00
+# time =                   15, opc=10
+# time =                   25, opc=01
+# time =                   35, opc=11
+# time =                   45, opc=00
+# time =                   55, opc=00
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 36
+# Compile of alu.v was successful.
+# Compile of test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.test
+# vsim -gui -novopt work.test 
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.test
+# Loading work.test
+# Refreshing D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/work.alu
+# Loading work.alu
+add wave -position insertpoint  \
+sim:/test/out \
+sim:/test/valid \
+sim:/test/op1 \
+sim:/test/op2 \
+sim:/test/opcode \
+sim:/test/clk \
+sim:/test/reset
+run -all
+# time =                    5, opc=00
+# time =                   15, opc=10
+# time =                   25, opc=01
+# time =                   35, opc=11
+# time =                   45, opc=00
+# time =                   55, opc=00
+# Break in Module test at D:/Program Files/modeltech64_10.1c/dsd_hws/az_8/test.v line 36
